@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>f0dd9dec-2f99-439d-8211-8d7af6344272</groupId>
+  <artifactId>account-papi</artifactId>
+  <version>1.0.7</version>
+  <name>account-papi</name>
+  <properties>
+    <classifier>oas</classifier>
+    <main>account-papi.json</main>
+    <status>published</status>
+    <originalFormatVersion>2.0</originalFormatVersion>
+    <apiVersion>v1</apiVersion>
+    <projectId>31243cec-be59-4f4b-8480-f8174390e04d</projectId>
+    <branchId>master</branchId>
+    <commitId>74213556eb169e7ea521357aa65890ccd67a230e</commitId>
+    <keywords/>
+    <type>rest-api</type>
+    <mainFile>account-papi.json</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>

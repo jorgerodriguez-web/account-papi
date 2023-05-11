@@ -21,6 +21,7 @@ tmp/**/*
 *.swp
 *~.nib
 local.properties
+.settings/
 .loadpath
 .project
 .classpath
@@ -40,6 +41,7 @@ local.properties
 # --------------- #
 # Studio-specific #
 # --------------- #
+target/
 .mule/**
 .mule/**/*
 .DS_Store
